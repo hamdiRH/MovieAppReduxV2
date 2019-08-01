@@ -1,0 +1,63 @@
+.logo {
+  width: 50px;
+  height: 50px;
+  border: none;
+}
+
+.navlogo {
+  display: flex;
+}
+.navlogo span {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.filter {
+  margin-left: 300px;
+  display: flex;
+}
+.filter select {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.fa-heart {
+  margin-left: 50px;
+  font-size: 39px;
+  margin-top: 5px;
+  margin-right: 250px;
+}
+.fa-star {
+  margin-top: 10px;
+  font-size: 28px;
+}
+.filter button {
+  text-decoration: none !important;
+}
+
+.movielist {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 50px;
+}
+.movielist .card {
+  margin-right: 30px;
+  margin-top: 50px;
+}
+.btn {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+.link {
+  text-decoration: none !important;
+}
+
+.addmovie {
+  padding-top: 50px;
+}
+.addmovie input {
+  margin: 20px 30px;
+}
+.addmovie button {
+  margin-left: 250px;
+  margin-top: 50px;
+}
