@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/movieAppReduxV2/static/css/main.bdbfdfcb.chunk.css",
+    "main.js": "/movieAppReduxV2/static/js/main.d138c3a1.chunk.js",
+    "main.js.map": "/movieAppReduxV2/static/js/main.d138c3a1.chunk.js.map",
+    "runtime-main.js": "/movieAppReduxV2/static/js/runtime-main.d169ad96.js",
+    "runtime-main.js.map": "/movieAppReduxV2/static/js/runtime-main.d169ad96.js.map",
+    "static/js/2.f12b29b9.chunk.js": "/movieAppReduxV2/static/js/2.f12b29b9.chunk.js",
+    "static/js/2.f12b29b9.chunk.js.map": "/movieAppReduxV2/static/js/2.f12b29b9.chunk.js.map",
+    "index.html": "/movieAppReduxV2/index.html",
+    "static/css/main.bdbfdfcb.chunk.css.map": "/movieAppReduxV2/static/css/main.bdbfdfcb.chunk.css.map",
+    "static/js/2.f12b29b9.chunk.js.LICENSE.txt": "/movieAppReduxV2/static/js/2.f12b29b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d169ad96.js",
+    "static/js/2.f12b29b9.chunk.js",
+    "static/css/main.bdbfdfcb.chunk.css",
+    "static/js/main.d138c3a1.chunk.js"
+  ]
+}
